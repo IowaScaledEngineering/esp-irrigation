@@ -1,0 +1,4 @@
+schematics esp-irrigation.sch
+output-name ../pcb/esp-irrigation
+skip-m4
+elements-dir ../../ise-footprints
