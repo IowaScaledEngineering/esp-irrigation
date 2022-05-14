@@ -2452,8 +2452,8 @@ Layer(2 "bottom" "copper")
 )
 Layer(3 "outline" "outline")
 (
-	Line[100.00mil 100.00mil 100.00mil 3850.00mil 10.00mil 20.00mil "clearline"]
-	Line[2900.00mil 100.00mil 2900.00mil 3850.00mil 10.00mil 20.00mil "clearline"]
+	Line[100.00mil 100.00mil 100.00mil 4100.00mil 10.00mil 20.00mil "clearline"]
+	Line[2900.00mil 100.00mil 2900.00mil 4100.00mil 10.00mil 20.00mil "clearline"]
 	Line[100.00mil 100.00mil 2900.00mil 100.00mil 10.00mil 20.00mil "clearline"]
 	Line[100.00mil 4100.00mil 2900.00mil 4100.00mil 10.00mil 20.00mil "clearline"]
 )
@@ -2464,8 +2464,8 @@ Layer(5 "top silk" "silk")
 (
 	Line[1485.00mil 145.00mil 1515.00mil 175.00mil 10.00mil 20.00mil "clearline"]
 	Line[1515.00mil 145.00mil 1485.00mil 175.00mil 10.00mil 20.00mil "clearline"]
-	Line[105.00mil 105.00mil 105.00mil 3845.00mil 10.00mil 20.00mil "clearline"]
-	Line[2895.00mil 3845.00mil 2895.00mil 105.00mil 10.00mil 20.00mil "clearline"]
+	Line[105.00mil 105.00mil 105.00mil 4095.00mil 10.00mil 20.00mil "clearline"]
+	Line[2895.00mil 4095.00mil 2895.00mil 105.00mil 10.00mil 20.00mil "clearline"]
 	Line[2895.00mil 105.00mil 105.00mil 105.00mil 10.00mil 20.00mil "clearline"]
 	Line[1525.00mil 2435.00mil 1555.00mil 2435.00mil 10.00mil 20.00mil "clearline"]
 	Line[1540.00mil 2420.00mil 1540.00mil 2450.00mil 10.00mil 20.00mil "clearline"]
